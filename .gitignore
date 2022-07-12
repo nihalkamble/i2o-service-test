@@ -1,0 +1,22 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+ 
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/.idea/
+/target/
+/.jpb/
+/.idea/
+/.dcignore
+/dependency-reduced-pom.xml
