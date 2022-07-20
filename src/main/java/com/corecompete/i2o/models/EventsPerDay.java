@@ -20,12 +20,4 @@ public class EventsPerDay implements Serializable {
     @JsonProperty(value = "count")
     private int count;
 
-    @JsonProperty(value = "event_name")
-    private String eventName;
-
-    @JsonProperty(value = "event_positivity")
-    private boolean eventPositivity;
-
-    @JsonProperty(value = "generated_at")
-    private Date generatedAt;
 }
